@@ -1,6 +1,5 @@
 # 💫 Hi! I'm Marc
-🚀 Software Engineer specializing in mobile apps  <br>📱 React Native (Expo) enthusiast  <br>🔁 Skilled in API integration and state management  <br>🧰 Comfortable with Git, Postman, VSCode & Copilot  <br>👥 Team player in Agile/Scrum environments  <br>💡 Always learning & improving clean code practices  
-
+🚀 Software Engineer specializing in mobile apps  <br>📱 React Native (Expo) enthusiast  <br>🔁 Skilled in API integration and state management  <br>🧰 Comfortable with Git, Postman, VSCode & Copilot  <br>👥 Team player in Agile/Scrum environments  <br>💡 Always learning & improving clean code practices <br>🗂️ [Projects](https://github.com/mbportz/projects)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/marc-bryan-portuguez-0a67a1145) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mbportuguez2@gmail.com) 
