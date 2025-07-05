@@ -93,12 +93,6 @@ I’m open to revisiting or refreshing these when a project needs it!
 
 ---
 
-## 👀 Visitor Count
-
-[![](https://visitcount.itsvg.in/api?id=mbportz&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
 ## ☕ Support Me
 
 **Like my work? Buy me a coffee or help me keep building cool stuff!**  
@@ -112,5 +106,6 @@ I’m open to revisiting or refreshing these when a project needs it!
 📫 [Email me](mailto:mbportuguez2@gmail.com) | [LinkedIn](https://linkedin.com/in/marc-bryan-portuguez-0a67a1145)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=mbportz&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly crafted with GPRM ( https://gprm.itsvg.in ) -->
