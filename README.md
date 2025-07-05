@@ -81,18 +81,6 @@ I’m open to revisiting or refreshing these when a project needs it!
 
 ---
 
-## 🏆 Trophies & Highlights
-
-![](https://github-profile-trophy.vercel.app/?username=mbportz&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-**✨ Dev Quote for the Day**  
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
-
-**📌 Top Repo:**  
-![](https://github-contributor-stats.vercel.app/api?username=mbportz&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
 ## ☕ Support Me
 
 **Like my work? Buy me a coffee or help me keep building cool stuff!**  
